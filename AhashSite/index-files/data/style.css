@@ -82,3 +82,10 @@ a{
 i{
     font-style: normal;
 }
+.simg {
+    padding: 0;
+    overflow: hidden;
+}
+section img {
+    width: 100%;
+}
